@@ -1,0 +1,155 @@
+[
+    
+    {
+        "name":"RAM C/O ANANDHI",
+        "author":"AKHIL P DHARMAJAN",
+        "image":"images/-RAM o nani.jpg",
+        "price":" ₹350.00"
+    },
+    
+    {
+        "name":"IKIGAI",
+        "author":"HECTOR GRACIA",
+        "image":"https://m.media-amazon.com/images/I/51xwGSNX-EL._SY445_SX342_.jpg",
+        "price":" ₹300.00"
+
+    },
+    {
+        "name":"SNEHAM KAMAM...",
+        "author":"JOSEPH ANNAMKUTTY",
+        "image":"images/kamam branth.jpg",
+        "price":"₹270.00"
+    },
+    {
+        "name":" KHASAKKINTE ITIHASAM",
+        "author":"O V VIJAYAN",
+        "image":"images/khasakk.jpg",
+        "price":"₹230.00"
+    },
+    {
+        "name":" ATTUPOKATHA ORMAKAL ",
+        "author":"PROF T. J. JOSEPH",
+        "image":"images/ATTUPOKATHA-ORMAKAL-.jpg",
+        "price":"₹360.00"
+    },
+    {
+        "name":"  PONAM",
+        "author":"K N PRASANTH",
+        "image":"images/-PONAM.jpg",
+        "price":" ₹298.00"
+    },
+    {
+        "name":"  NINGAL ",
+        "author":"M. MUKUNDAN",
+        "image":"images/-ningal.jpg",
+        "price":"₹349.00"
+    },
+    {
+        "name":"  CORONAKKALATHE KUNJUNJUKATHAKAL",
+        "author":" CHACKO P T",
+        "image":"images/kunjunj.jpg",
+        "price":"₹173.00"
+    },
+    
+    {
+        "name":"KUTTANWESHANATHINTE KANAPPURANGAL ",
+        "author":"N RAMACHANDRAN IPS",
+        "image":"images/kuttaneshanathinte-kanappurangal.jpg",
+        "price":"₹240.00"
+    },
+
+    {
+        "name":"NANANJU THEERTHA MAZHAKAL",
+        "author":"DEEPA NISANTH",
+        "image":"images/-NANANJU.jpg",
+        "price":"₹165.00"
+    },
+
+    {
+        "name":"ORU THERUVINTE KATHA",
+        "author":"POTTEKKAT S K",
+        "image":"images/oru-theruvinte.jpg",
+        "price":"₹349.00 "
+    },
+
+    {
+        "name":"ASWATHAMAVU - VERUM ORU AANA",
+        "author":"M SHIVASHANKAR",
+        "image":"images/shivashankar.jpg",
+        "price":"₹157.00"
+    },
+
+    {
+        "name":"ORU DESATHINTE KADHA",
+        "author":"POTTEKKAT S K",
+        "image":"images/ORU-DESATHINTE-KADHA-min.png",
+        "price":"₹349.00"
+    } 
+    ,
+    {
+        "name":"NEERMATHALAM POOTHA....",
+        "author":"MADHAVIKKUTTY",
+        "image":"images/neermathala.jpg",
+        "price":"₹245.00"
+    } 
+    ,{
+        "name":"ORU SANKEERTHANAM..",
+        "author":"PERUMPADAVOM....",
+        "image":"images/orusankeerthanam.jpg ",
+        "price":"₹270.00"
+
+    },
+    {
+        "name":"ENTE KATHA",
+        "author":"MADHAVIKKUTTY",
+        "image":"https://dcbookstore.com/uploads/product/images/53055197057462-ente-katha.jpg ",
+        "price":"₹188.00"
+        
+    },
+    {
+        "name":"AADUJEEVITHAM",
+        "author":"BLESSY",
+        "image":"https://dcbookstore.com/uploads/product/images/85508168209125-WhatsApp-Image-2024-03-15-at-10.01.41-AM.jpeg",
+        "price":"₹220.00"
+    },
+    {   
+        "name":"AZADI - MALAYALAM",
+        "author":"ARUNDHATI ROY",
+        "image":"https://dcbookstore.com/uploads/product/images/6512764356808-IMG-20201007-WA0042.jpg",
+        "price":" ₹252.00"
+
+
+    }
+    ,{
+        "name":"ORIKKAL",
+        "image":"https://dcbookstore.com/uploads/product/images/5124023209116-orikkal.JPG",
+        "author":"N MOHANAN",
+        "price":" ₹200.00"
+
+    },{ "name":"LIFEBUOY",
+        "image":"https://dcbookstore.com/uploads/product/images/13446699730612-Capture.JPG",
+        "author":"PRASANTH NAIR IAS",
+        "price":" ₹195.00"
+    },{
+        "name":"QABAR",
+        "author":"K. R. MEERA",
+        "image":"https://dcbookstore.com/uploads/product/images/3318505214542-Qabar-Final.jpg",
+        "price":"₹98.00"
+    },{
+        "name":"BALKAN DIARY",
+        "image":"https://dcbookstore.com/uploads/product/images/59484419765817-9789354323522-BALKAN-DIARY.jpg",
+        "author":"BAIJU N. NAIR",
+        "price":"₹153.00"
+    },{
+         "name":"BHAGAVANTE MARANAM",
+         "author":"K. R. MEERA",
+         "image":"https://dcbookstore.com/uploads/product/images/53014718750586-bhagavante-maranam.jpg",
+         "price":" ₹120.00"
+    },{
+        "name":"BURIED THOUGHTS-ON",
+        "author":"JOSEPH ANNAMKUTTY ",
+        "image":"https://dcbookstore.com/uploads/product/images/77981924187718-9788126477401.jpg",
+        "price":" ₹320.00"
+    }
+
+]
